@@ -1,4 +1,4 @@
-scalaVersion := "3.3.0"
+scalaVersion := "3.3.3"
 
 console / initialCommands := """
       |import doodle.core.*
